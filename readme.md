@@ -8,12 +8,12 @@
   </em>
 </p>
 
-[![hello@lennarkoe.de](https://img.shields.io/badge/hello%40lennarkoe.de-8B89CC?style=flat-square&logo=gmail&logoColor=white)](mailto:leycm@proton.me)
+[![hello@lennarkoe.de](https://img.shields.io/badge/hello%40lennarkoe.de-8B89CC?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@lennarkoe.de)
 [![lennarkoe](https://img.shields.io/badge/lennarkoe-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1063519999886622801)
 [![lennarkoe:matrix.org](https://img.shields.io/badge/lennarkoe:matrix.org-0DBD8B?style=flat-square&logo=matrix&logoColor=white)](https://matrix.org)
-[![@lennarkoe.de](https://img.shields.io/badge/@lennarkoe.de-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/leycm.de)
-[![LinkedIn: lennarkoe](https://img.shields.io/badge/-lennarkoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennarkoe/)](https://www.linkedin.com/in/leycm/) 
-[![GitHub: lennarkoe](https://img.shields.io/github/followers/lennarkoe?label=follow&style=social)](https://github.com/leycm)
+[![@lennarkoe.de](https://img.shields.io/badge/@lennarkoe.de-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/lennarkoe.de)
+[![lennarkoe](https://img.shields.io/badge/-lennarkoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennarkoe/)](https://www.linkedin.com/in/lennarkoe/) 
+[![lennarkoe](https://img.shields.io/github/followers/lennarkoe?label=follow&style=social)](https://github.com/lennarkoe)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20"> A little more about me...  
